@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vinita Gurnani] (https://github.com/vinitagurani)
+- Place: Bhopal, Madhya Pradesh
+- Bio: Electronics and Communication Engineer, Html, Java, C, C++
+- Github:  [Vinita Gurnani] (https://github.com/vinitagurani)
